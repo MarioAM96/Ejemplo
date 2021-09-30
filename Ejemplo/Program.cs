@@ -14,6 +14,7 @@ namespace Ejemplo
             Console.WriteLine("Mario Andres Muñoz");
             Console.WriteLine("Andres Orozco");
             Console.WriteLine("Mateo Sandoval");
+            Console.WriteLine("Carlos Lara");
             Console.ReadKey();
         } 
     }
